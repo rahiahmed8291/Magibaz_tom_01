@@ -1,15 +1,9 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
-
-<p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX-Ultra">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
-  </a>
-</p>
+<h1 align="center"> ULTRA X </h1>
     
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX Ultra-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/UltraX-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
